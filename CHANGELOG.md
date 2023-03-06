@@ -1,5 +1,11 @@
 # @primer/css
 
+## 20.8.4
+
+### Patch Changes
+
+- [#2391](https://github.com/primer/css/pull/2391) [`95ab0d0f`](https://github.com/primer/css/commit/95ab0d0f48fde360a9f0b0f6a8af0323b3e891da) Thanks [@simurai](https://github.com/simurai)! - Prevent `.show-on-focus` to change width/height
+
 ## 20.8.3
 
 ### Patch Changes
